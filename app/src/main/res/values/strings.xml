@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserAndAlbum</string>
+
+    <string name="title_activity_user_details">UserDetailsActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">userDetails</string>
+    <string name="second_fragment_label">albumDetails</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">Title</string>
+</resources>
